@@ -20,7 +20,7 @@
 
 1. **Clone the repository**:
    ```bash
-   git clone 
+   git clone https://github.com/sean-udayantha/StudentManagement-react-dotnet.git
    cd StudentManagement-react-dotnet
 
    ```
