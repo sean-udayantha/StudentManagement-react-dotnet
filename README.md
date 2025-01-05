@@ -1,6 +1,6 @@
 # Student Management-react-dotnet
 
-DeptEmpManager is a comprehensive web application designed for managing employees and departments within an organization. This app provides features for adding, editing, and deleting employees and departments, ensuring seamless administrative management through an intuitive dashboard interface.
+ Student Management  is a comprehensive web application designed for managing Student within an organization. This app provides features for adding, editing, and deleting Student.
 
 ## Tech Stack
 - **Frontend**: React.js with Material-UI for a modern and responsive user interface.
@@ -12,9 +12,7 @@ DeptEmpManager is a comprehensive web application designed for managing employee
   - React-Toastify for user notifications.
 
 ## Features
-- **Employee Management**: Add, edit, and delete employee records with detailed information.
-- **Department Management**: Manage department details seamlessly.
-- **Dashboard Interface**: Navigate between employees and departments through a sidebar, with each section displaying the relevant data table.
+- **Student Management**: Add, edit, and delete Student records with detailed information.
 - **Real-Time Updates**: Interactive tables and forms for immediate data updates.
 - **Responsive Design**: Optimized for desktop and mobile use.
 
@@ -22,8 +20,8 @@ DeptEmpManager is a comprehensive web application designed for managing employee
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/sean-udayantha/DeptEmpManager-react-dotnet.git
-   cd DeptEmpManager
+   git clone 
+   cd StudentManagement-react-dotnet
 
    ```
    
@@ -36,7 +34,7 @@ DeptEmpManager is a comprehensive web application designed for managing employee
    
 3. **steup backend**:
    ```bash
-   cd path/to/backend
+   cd path/to/backend/StudentManagementSystemAPI
    dotnet restore
    "ConnectionStrings": { "DefaultConnection": "Server=your-server;Database=your-database;User=your-user;Password=your-password;"}
    dotnet ef database update
