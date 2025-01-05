@@ -36,7 +36,7 @@
    ```bash
    cd path/to/backend/StudentManagementSystemAPI
    dotnet restore
-   "ConnectionStrings": { "DefaultConnection": "Server=your-server;Database=your-database;User=your-user;Password=your-password;"}
+   "ConnectionStrings": { "DefaultConnection": "Server=localhost;Database=businessmachines;Uid=root;Pwd=;"} use data dum for create table  and PROCEDURE
    dotnet ef database update
    dotnet run
    ```
